@@ -48,6 +48,15 @@ YourWritingProject/
 4. Review the documentation in each directory's README file
 5. Start capturing ideas and inspiration using the provided templates
 
+### Pushing Updates
+
+To push your changes to GitHub:
+```bash
+git add .
+git commit -m "describe your changes"
+git push
+```
+
 ## Documentation
 
 - [Ideas Management](ideas/README.md)
