@@ -73,4 +73,4 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 - Built for use with [Cursor](https://cursor.sh/)
 - Inspired by various note-taking and knowledge management systems
-- Sample content includes excerpts from Paul Graham and Tim Urban (used for demonstration purposes) 
+- Sample content includes excerpts from Paul Graham and Tim Urban (used for demonstration purposes)
