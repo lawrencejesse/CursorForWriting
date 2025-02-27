@@ -42,6 +42,22 @@ Applies to: **/*.md
 - Focus on shareable insights or information
 - Consider visual elements that complement the text
 
+# Tweets
+- Maximum 280 characters
+- Front-load important information
+- Use emojis strategically, not excessively
+- Include one clear call-to-action if needed
+- Leave room for comments/QTs (aim for ~250 chars)
+- Consider accessibility (e.g., camelCase hashtags)
+
+# Tweet Threads
+- Hook readers with a strong first tweet
+- Number tweets if helpful (e.g., 1/7)
+- Each tweet should work standalone and in sequence
+- Use reply breaks at natural thought transitions
+- End with a clear wrap-up tweet
+- Consider saving key insights for later in thread
+
 # Email Content
 - Use a clear, specific subject line
 - Get to the point quickly in the opening
